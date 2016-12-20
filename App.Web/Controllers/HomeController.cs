@@ -10,6 +10,7 @@ namespace App.Web.Controllers
     {
         public ActionResult Index()
         {
+            ViewBag.config = "config";
             return View();
         }
 

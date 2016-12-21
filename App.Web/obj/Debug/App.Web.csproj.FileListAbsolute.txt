@@ -77,7 +77,6 @@ C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\bin\Microsoft.Owin.Secur
 C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\obj\Debug\App.Web.csprojResolveAssemblyReference.cache
 C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\obj\Debug\App.Web.dll
 C:\Users\JanSalva\Documents\project_p_c\AppTest\App.Web\obj\Debug\App.Web.pdb
 C:\RareCrew\Janci\AppTest\App.Web\bin\ApplicationInsights.config

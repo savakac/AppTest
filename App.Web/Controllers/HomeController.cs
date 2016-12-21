@@ -11,7 +11,7 @@ namespace App.Web.Controllers
         public ActionResult Index()
         {
             ViewBag.config = "config";
-            int? number = 2 + 5;
+            int? number = 2 + 33;
 
             return View(number);
         }

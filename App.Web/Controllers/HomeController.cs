@@ -11,13 +11,15 @@ namespace App.Web.Controllers
         public ActionResult Index()
         {
             ViewBag.config = "config";
-            return View();
+            int? number = 2 + 5;
+
+            return View(number);
         }
 
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-
+			
             return View();
         }
 
